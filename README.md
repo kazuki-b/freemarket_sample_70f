@@ -1,27 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 
 ## usersテーブル
 |Column|Type|Options|
@@ -135,7 +113,30 @@ Things you may want to cover:
 
 ## 本番環境
 
+- URL
+
 http://18.180.99.238/
+
+- ID/Pass
+
+ID: admin
+Pass: 2222
+
+- テスト用アカウント等
+
+**購入者用**
+メールアドレス: gonza@gmail.com
+パスワード: 22222222
+
+**購入用カード情報**
+番号：4242424242424242
+期限：2022/09
+セキュリティコード：123
+
+**出品者用**
+メールアドレス名: doda@gmail.com
+パスワード: 11111111
+
 
 ## 制作背景
 プログラミングスクールで、メルカリ等を元にフリマアプリをチームで開発する課題が出されたため。
